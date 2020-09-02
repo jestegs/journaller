@@ -1,0 +1,35 @@
+.background: #a35638
+*Toplevel.background: #a35638
+
+*Frame.background: #a35638
+
+*Labelframe.background: #a35638
+*Labelframe.foreground: white
+*Labelframe.relief: raised
+
+*Label.background: #a35638
+*Label.foreground: white
+
+*Button.background: #534335
+*Button.foreground: white
+*Button.relief: raised
+*Button.activeBackground: #725841
+*Button.activeForeground: white
+
+*Menubutton.background: #534335
+*Menubutton.foreground: white
+*Menubutton.activeBackground: #725841
+*Menubutton.activeForeground: white
+
+*menu.background: #534335
+*menu.foreground: white
+*menu.activeBackground: #725841
+
+*Entry.background: #c7b198
+*Entry.foreground: black
+
+*Listbox.background: #c7b198
+*Listbox.foreground: black
+
+*Text.background: #c7b198
+*Text.foreground: black
